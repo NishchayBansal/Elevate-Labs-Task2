@@ -1,13 +1,13 @@
 # Elevate-Labs-Task2
 Task 2: Analyze a Phishing Email Sample.
 
-1.We Obtained a sample phishing email (many free samples online)
-2.Examined sender's email address for spoofing.
-3.Checked email headers for discrepancies (using online header analyzer: mxtoolbox.com ).
+1. We Obtained a sample phishing email (many free samples online)
+2. Examined sender's email address for spoofing.
+3. Checked email headers for discrepancies (using online header analyzer: mxtoolbox.com ).
 4. We Identified suspicious links or attachments (if any).
-5.Looked for urgent or threatening language in the email body.
-6.Noted down any mismatched URLs.
-7.Then we verified the presence of spelling or grammar errors.
+5. Looked for urgent or threatening language in the email body.
+6. Noted down any mismatched URLs.
+7. Then we verified the presence of spelling or grammar errors.
 
 8. Lastly, Summarized the phishing traits found in the email which are as follows:	
     a. The email address was found to be misleading or not a legitimate one.
